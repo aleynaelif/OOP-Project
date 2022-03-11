@@ -1,0 +1,16 @@
+Part 1
+
+Sekiz adet Kale bir Satranç tahtasına bir birini yemeyecek şekilde yerleştirilecektir.  
+Kalelerin konumu rastgele sayı kullanılarak belirlenecek. 
+Birinci kale yerleştirildikten sonra ikinci Kalenin konumu rastgele belirlenecek ancak kalelerin bir birini yememesi için gerekli kontrol yapılacak. 
+Eğer bir birini yeme durumu varsa son kalenin konumu yeniden rastgele belirlenecek. 
+Her aşamada ekrana matris görünümünde çizim sağlanacaktır. 
+Sekiz kale de yerleştirilene kadar benzer şekilde işlemler gerçekleştirilecektir
+
+Part 2
+
+Assume that we have a string object. Write code for the following items.
+-search the given string inside the string object without using substring() method, and Show the indexes of them as showing in the figure.
+-search the given string inside the string object using substring() method, and Show the indexes of them as showing in the figure.
+- search alphabet character in the string object, calculate the frequency of every character and print the results as figure.
+
