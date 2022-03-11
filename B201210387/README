@@ -1,0 +1,16 @@
+Part 1
+
+Eight Rooks will be placed on a chessboard in such a way that one will not eat one.  
+The location of the castles will be determined using a random number. 
+After the first castle is placed, the location of the second Castle will be determined randomly, but the necessary check will be made so that one of the castles does not eat one. 
+If there is a situation of eating someone, the location of the last castle will be determined randomly again. 
+At each stage, the screen will be provided with a drawing in matrix view. 
+Similar operations will be carried out until all eight castles are located
+
+Part 2
+
+Assume that we have a string object. Write code for the following items.
+-search the given string inside the string object without using substring() method, and Show the indexes of them as showing in the figure.
+-search the given string inside the string object using substring() method, and Show the indexes of them as showing in the figure.
+- search alphabet character in the string object, calculate the frequency of every character and print the results as figure.
+
