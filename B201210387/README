@@ -1,11 +1,11 @@
 Part 1
 
-Sekiz adet Kale bir Satranç tahtasına bir birini yemeyecek şekilde yerleştirilecektir.  
-Kalelerin konumu rastgele sayı kullanılarak belirlenecek. 
-Birinci kale yerleştirildikten sonra ikinci Kalenin konumu rastgele belirlenecek ancak kalelerin bir birini yememesi için gerekli kontrol yapılacak. 
-Eğer bir birini yeme durumu varsa son kalenin konumu yeniden rastgele belirlenecek. 
-Her aşamada ekrana matris görünümünde çizim sağlanacaktır. 
-Sekiz kale de yerleştirilene kadar benzer şekilde işlemler gerçekleştirilecektir
+Eight Rooks will be placed on a chessboard in such a way that one will not eat one.  
+The location of the castles will be determined using a random number. 
+After the first castle is placed, the location of the second Castle will be determined randomly, but the necessary check will be made so that one of the castles does not eat one. 
+If there is a situation of eating someone, the location of the last castle will be determined randomly again. 
+At each stage, the screen will be provided with a drawing in matrix view. 
+Similar operations will be carried out until all eight castles are located
 
 Part 2
 
