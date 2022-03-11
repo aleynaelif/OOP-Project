@@ -1,16 +1,3 @@
-﻿/****************************************************************************
-**					SAKARYA ÜNİVERSİTESİ
-**			   BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-**				    BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-**				   NESNEYE DAYALI PROGRAMLAMA DERSİ
-**					  2020-2021 BAHAR DÖNEMİ
-**	
-**				ÖDEV NUMARASI..........: 1. ÖDEV SORU 1
-**				ÖĞRENCİ ADI............: ALEYNA ELİF ÖZKAN
-**				ÖĞRENCİ NUMARASI.......: B201210387
-**              DERSİN ALINDIĞI GRUP...: 1-C
-****************************************************************************/
-
 using System;
 
 namespace SORU1
